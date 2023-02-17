@@ -1,5 +1,5 @@
 import './App.css';
-import TipForm from './components/tipForm';
+import TipForm from './components/TipForm';
 
 function App() {
   return (
